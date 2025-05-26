@@ -76,3 +76,19 @@ body {
 #qr-code {
     margin-top: 2rem;
 }
+
+#download-btn {
+  display: none; 
+  margin-top: 1rem;
+  padding: 0.7rem 1.5rem;
+  background-color: #6e4b2b;
+  color: #fff;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 0.95rem;
+  transition: background 0.3s ease;
+}
+
+#download-btn:hover {
+  background-color: #8b5e3c;
+}
